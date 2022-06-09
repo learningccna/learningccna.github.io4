@@ -1,8 +1,10 @@
 ---
 title: MySQL
-date: 2022-06-09 19:36:00 +/-0000
-categories: [hacking]
-tags: [mysql]     # TAG names should always be lowercase
+date: 2022-06-03 14:55:00 +/-0000
+categories: [TEST]
+tags: [test]     # TAG names should always be lowercase
 ---
 
-# Hacking MySQL
+# MySQL
+
+Welcome
