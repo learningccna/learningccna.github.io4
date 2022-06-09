@@ -11,19 +11,19 @@ tags: [mysql]     # TAG names should always be lowercase
 3306
 
 ### To find tables
-''' bash
+'''console
 auxiliary/scanner/mysql/mysql_schemadump
 '''
 
 ### To dump hashes
 
-'''bash
+'''console
 auxiliary/scanner/mysql/mysql_hashdump
 '''
 
 Copy the username and password to text file then run
 
-'''bash
+'''console
 John *filename*
 '''
 
