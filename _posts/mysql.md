@@ -11,20 +11,20 @@ tags: [mysql]     # TAG names should always be lowercase
 3306
 
 ### To find tables
-'''console
+
 auxiliary/scanner/mysql/mysql_schemadump
-'''
+
 
 ### To dump hashes
 
-'''console
+
 auxiliary/scanner/mysql/mysql_hashdump
-'''
+
 
 Copy the username and password to text file then run
 
-'''console
+
 John *filename*
-'''
+
 
 Then try logging in SSH using username and password
